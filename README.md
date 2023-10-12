@@ -13,6 +13,6 @@ Additionally, **helpful sources** for SQL learning:
 * [W3Schools](https://www.w3schools.com/sql/): **Main SQL queries with examples to try yourself.**
 * [W3Resource](https://www.w3resource.com/sql-exercises/challenges-1/index.php): **A good resource to solve some tasks.**
 * [SQLBolt](https://sqlbolt.com/lesson/select_queries_introduction): **Lessons + practice.**
-
+* Might add more, if i remember a source, or meet one.
 **Cheers and happy learning!**
  
