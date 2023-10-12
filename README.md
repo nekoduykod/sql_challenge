@@ -2,7 +2,7 @@
 
 Aloha! It`s an engaging, worthwhile challenge for practicing SQL programming.
 
-**Requirement:** An local database like MS SQL, PostgreSQL, MySQL or others. I used MySQL for the tasks.
+**Requirement:** A local database like MS SQL, PostgreSQL, MySQL or others. I used MySQL for the tasks.
 
 **Create databases** by executing the provided queries from the PDF document.
 
